@@ -121,7 +121,7 @@ The report includes:
 - Distribution of forecast errors
 - Model vs baseline comparison
 
-![RStudio project](RStudio_Project_Screenshot.png)
+![RStudio project](Project_Screenshot.png)
 
 ## Limitations and Future Work
 
