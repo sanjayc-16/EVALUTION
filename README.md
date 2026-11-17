@@ -2,7 +2,7 @@
 
 A reproducible R project that shows how to **evaluate a predictive model and report the findings** in an agribusiness setting. It uses a hypothetical crop yield forecasting model built on simulated farm data.
 
-![Cover infographic](Cover_Infographic.png)
+![Cover infographic](Infographic.png)
 
 > **Note:** All data and results are simulated for demonstration. They are not real farm results.
 
